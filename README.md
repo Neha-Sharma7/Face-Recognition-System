@@ -20,7 +20,7 @@ The system processes an image dataset, extracts meaningful facial features, and 
 ## 🧩 Project Structure
 
 ```
-face-recognition-pca-svm/
+face-recognition-system
 │
 ├── notebook/
 │   └── Face_Recognition_System.ipynb
@@ -28,8 +28,8 @@ face-recognition-pca-svm/
 ├── dataset/ (optional / ignored if large)
 │
 ├── outputs/
-│   ├── sample_prediction.png
-│   ├── accuracy_graph.png
+│   ├── prediction.png
+│   ├── accuracy.png
 │
 ├── requirements.txt
 ├── README.md
